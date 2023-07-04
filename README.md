@@ -4,7 +4,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone 
+git clone https://github.com/f20212942/NotesApp.git
 
 ```
 
