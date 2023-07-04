@@ -1,14 +1,10 @@
-<div align="center">
-<img width="50%" src="http://i3.ytimg.com/vi/tYKRAXIio28/maxresdefault.jpg"/>
-
 # Django & React Notes App
-</div>
 
 ### Cloning the repository
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
+git clone 
 
 ```
 
@@ -34,6 +30,15 @@ python -m venv env
 source env/bin/activate
 ```
 
+--> Install the virtual environment :
+```bash
+install Django using Python's package manager, pip:
+pip install django
+Install the Django REST framework using pip by running the following command:
+pip install djangorestframework
+Install the 'corsheaders' package using pip by running the following command:
+pip install django-cors-headers
+```
 #
 
 ### Running the App
@@ -44,13 +49,5 @@ python manage.py runserver
 ```
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
-
-#
-
-### App Preview :
-
-<div align="center">
-<img width="50%" src="https://www.linkpicture.com/q/Notes.png"/>
-</div>
 
 #
